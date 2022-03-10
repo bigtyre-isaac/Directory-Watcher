@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UpdateRestarter": {
+      "commandName": "Project",
+      "commandLineArgs": "-d \"C:\\FILES\\CDR Files Test\" -c \"echo A file changed!\" -w 300"
+    }
+  }
+}
